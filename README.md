@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+<img align="right" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg" width="350">
 #### About Me
 
 - 🌐前端：`HTML`, `CSS`, `Javascript`, `Typescript`
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 - 👀其他还在努力学习中...
 
 ---
+<img align="right" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-tenor.gif">
 
 ![ZhengXiaowei's Github Stats](https://github-readme-stats.vercel.app/api?username=Zhengxiaowei&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -35,6 +37,7 @@ JSON         17 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 #### 来人，上初音！
+<img align="right" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-LmVM2hv.gif" width="400>
 ```
  * _______________#########_______________________
  * ______________############_____________________
