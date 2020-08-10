@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 -->
 #### About Me
 
-- 🌐前端：`HTML`, `CSS`, `Javascript`, `Typescript`
-- 💻后端：`Node`
-- 🏠框架：`Vue`, `Nuxt`, `React`, `Koa`
-- 🛢数据库：`Mysql`, `MongoDB`
-- 🔧工具：`Git`, `Markdown`
-- 💖兴趣：`游戏`, `电影`, `涉及新事物`
+- 🌐**前端**：`HTML`, `CSS`, `Javascript`, `Typescript`
+- 💻**后端**：`Node`
+- 🏠**框架**：`Vue`, `Nuxt`, `React`, `Koa`
+- 🛢**数据库**：`Mysql`, `MongoDB`
+- 🔧**工具**：`Git`, `Markdown`
+- 💖**兴趣**：`游戏`, `电影`, `涉及新事物`
 - 👀其他还在努力学习中...
 
 ---
