@@ -1,3 +1,5 @@
+<img align="center" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg" width="350">
+
 ### Hi there 👋
 
 <!--
@@ -5,7 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-<img align="right" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg" width="350">
 #### About Me
 
 - 🌐前端：`HTML`, `CSS`, `Javascript`, `Typescript`
@@ -36,8 +37,9 @@ JSON         17 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-#### 来人，上初音！
-<img align="right" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-LmVM2hv.gif" width="400>
+#### 最后，来人，上初音！
+<img align="right" src="http://normal-image.xiaovv-web.com/normal/2020-08-10-LmVM2hv.gif" width="400">
+
 ```
  * _______________#########_______________________
  * ______________############_____________________
