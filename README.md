@@ -38,6 +38,7 @@ Markdown     15 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+![weekly chart](https://github.com/ZhengXiaowei/ZhengXiaowei/blob/master/images/stat.svg)
 ---
 
 #### 最后，来人，上初音！
