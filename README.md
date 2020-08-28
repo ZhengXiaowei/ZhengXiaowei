@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 #### 📊 每周编码
 
-![weekly chart](https://github.com/ZhengXiaowei/ZhengXiaowei/blob/master/images/stat.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
