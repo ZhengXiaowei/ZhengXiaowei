@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2020 - 30 September, 2020
+Week: 24 September, 2020 - 01 October, 2020
 
-Vue.js       6 hrs 54 mins   █████████████▒░░░░░░░░░░░   52.85 % 
-TypeScript   3 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.24 % 
-JavaScript   2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Vue.js       6 hrs 48 mins   █████████████▒░░░░░░░░░░░   52.92 % 
+TypeScript   3 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+JavaScript   2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
