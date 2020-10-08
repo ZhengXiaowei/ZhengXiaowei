@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-TypeScript   2 hrs 34 mins   ███████████████░░░░░░░░░░   59.66 % 
-Vue.js       1 hr 3 mins     ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-JavaScript   40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+
 ```
 <!--END_SECTION:waka-->
 
