@@ -31,13 +31,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2020 - 14 December, 2020
+Week: 08 December, 2020 - 15 December, 2020
 
-Vue.js       11 hrs 15 mins  ███████████████████▓░░░░░   79.04 % 
-TypeScript   1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-SCSS         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Vue.js       4 hrs 54 mins   ██████████████▓░░░░░░░░░░   59.20 % 
+TypeScript   3 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   36.99 % 
+SCSS         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 <!--END_SECTION:waka-->
 
