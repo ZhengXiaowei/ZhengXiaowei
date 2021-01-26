@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 -->
 #### About Me
 
+![User Metrics](https://github.com/ZhengXiaowei/ZhengXiaowei/blob/master/github-metrics.svg)
+
 - 🌐**前端**：`HTML`, `CSS`, `Javascript`, `Typescript`
 - 💻**后端**：`Node`
 - 🏠**框架**：`Vue`, `Nuxt`, `React`, `Koa`
@@ -22,8 +24,6 @@ Here are some ideas to get you started:
 ---
 
 ![ZhengXiaowei's Github Stats](https://github-readme-stats.vercel.app/api?username=Zhengxiaowei&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![User Metrics](https://github.com/ZhengXiaowei/ZhengXiaowei/blob/master/github-metrics.svg)
 
 ---
 
