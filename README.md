@@ -31,13 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
-
-Vue.js       1 hr 10 mins    ████████████▓░░░░░░░░░░░░   50.45 % 
-TypeScript   36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 % 
-JavaScript   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-JSON         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
