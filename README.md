@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
-Vue.js       10 hrs 52 mins  ███████████████████░░░░░░   76.30 % 
-JavaScript   1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-TypeScript   1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-SCSS         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Vue.js       10 hrs 52 mins  ██████████████████▒░░░░░░   72.94 % 
+JavaScript   2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+TypeScript   1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+SCSS         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
 
