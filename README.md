@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 April, 2021 - 17 April, 2021
+Week: 11 April, 2021 - 18 April, 2021
 
 JavaScript   2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 Pug          2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
