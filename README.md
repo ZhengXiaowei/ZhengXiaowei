@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 April, 2021 - 30 April, 2021
+Week: 24 April, 2021 - 01 May, 2021
 
-Vue.js       6 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.89 % 
+Vue.js       6 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.90 % 
 JavaScript   6 hrs           ████████▒░░░░░░░░░░░░░░░░   33.78 % 
 Pug          1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 SCSS         1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
