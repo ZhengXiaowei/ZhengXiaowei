@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
 Vue.js       22 hrs 51 mins  ██████████████████░░░░░░░   72.06 % 
 HTML         5 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
