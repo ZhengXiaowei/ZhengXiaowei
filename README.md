@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
 Vue.js       14 hrs 14 mins  ██████████████████░░░░░░░   71.92 % 
 JavaScript   2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
