@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-Vue.js       14 hrs 16 mins  ██████████████████░░░░░░░   72.20 % 
-JavaScript   3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-TypeScript   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Vue.js       13 hrs 14 mins  ██████████████████░░░░░░░   71.82 % 
+TypeScript   3 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+JavaScript   1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
