@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
-Vue.js       42 mins         █████████████████████▓░░░   86.94 % 
-JavaScript   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Vue.js       1 hr 3 mins     ██████████████████████▓░░   90.97 % 
+JavaScript   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 ```
 <!--END_SECTION:waka-->
 
