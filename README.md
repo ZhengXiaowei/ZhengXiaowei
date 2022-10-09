@@ -32,10 +32,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Python   1 hr 20 mins    █████████████████████▓░░░   87.06 %
-HTML     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Vue.js       4 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.69 %
+TypeScript   2 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.54 %
+Python       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+SCSS         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
