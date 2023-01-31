@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 January 2023 - To: 30 January 2023
+
+Vue.js       3 hrs 17 mins   ██████████████████████░░░   88.47 %
+TypeScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
