@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
 Vue.js       10 hrs 45 mins  ██████████████▒░░░░░░░░░░   57.19 %
 TypeScript   6 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   36.27 %
