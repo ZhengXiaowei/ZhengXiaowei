@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
-Vue.js       2 mins          ██████████████████▓░░░░░░   75.02 %
-TypeScript   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Vue.js       18 mins         ████████████████░░░░░░░░░   63.92 %
+TypeScript   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
 
 <!--END_SECTION:waka-->
