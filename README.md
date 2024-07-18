@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Vue.js       16 hrs 22 mins  ████████████▓░░░░░░░░░░░░   50.22 %
-TypeScript   12 hrs 54 mins  ██████████░░░░░░░░░░░░░░░   39.59 %
-JSON         2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JavaScript   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Vue.js       17 hrs 33 mins  ████████████▒░░░░░░░░░░░░   49.66 %
+TypeScript   14 hrs 26 mins  ██████████▒░░░░░░░░░░░░░░   40.88 %
+JSON         2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
