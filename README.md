@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
 TypeScript   9 hrs 8 mins    ██████████████████▓░░░░░░   74.22 %
 JSON         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
