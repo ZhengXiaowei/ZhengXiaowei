@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-JSON         3 hrs 53 mins         ██████████████████████▒░░   89.04 %
-SSH Config   14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Markdown     13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON         4 hrs 8 mins          ███████████▒░░░░░░░░░░░░░   45.28 %
+TypeScript   3 hrs                 ████████▒░░░░░░░░░░░░░░░░   32.93 %
+JavaScript   1 hr 6 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Other        19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Markdown     14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
